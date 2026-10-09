@@ -1,0 +1,6 @@
+README.md
+CLASP_SETUP.md
+.git/**
+.gitignore
+node_modules/**
+*.zip
